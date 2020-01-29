@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-image: url("https://i.ytimg.com/vi/m7ZszOI9QPM/maxresdefault.jpg")
 }
 
 body {
@@ -104,3 +104,7 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+/* .inner {
+  background-image: url("https://i.ytimg.com/vi/m7ZszOI9QPM/maxresdefault.jpg");
+} */
